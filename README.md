@@ -1,21 +1,33 @@
-# DEMO-NAME
-
-This is the template for demos. These repos are the starging points and instructions for short live-coding sessions where the instructor will demonstrate a specific concept.
+# JS Functions Basics Demo
 
 ## What is this demo?
 
-Explain what this demo is? Is it an incrementer? Is it a wand shop? Is it a text editor?  
+Explaining what is functions (first time)
 
 ## What are the objectives?
 
-Why do we need this demo? What concepts are covered?
+- Show them what's a function without parameters and without return value
+- Show them how can we use a function with a returned value
 
 ## Steps
 
-This is a **general overview** of the steps in this demo. You don't need to add details here.
+- Start with the child bed time scenario
+  - Create a function for each step
+  - Call those functions in the main scope
+- Take the BMI calculator Example
+  - Create the BMI function that takes `height` (m) and `weight` (KG)
+  - return `weight / height ^ 2`
+  - Create a function that calculates the status of the BMI
+    - bmi < 19 is thin
+    - 19 > bmi > 25 is normal
+      | range | status |
+      |------------|--------|
+      | <= 19 | thin |
+      | >19 && <25 | normal |
+      | >=25 | fat |
 
 ## Instructor Notes
 
 These are detailed notes written by various instructors. Feel free to use them or write your own.
 
-* [Aziz's Notes](https://github.com/JoinCODED/DEMO-Template/blob/main/aziz.md)
+- [Aziz's Notes](https://github.com/JoinCODED/DEMO-Template/blob/main/aziz.md)
