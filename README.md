@@ -30,4 +30,4 @@ Explaining what is functions (first time)
 
 These are detailed notes written by various instructors. Feel free to use them or write your own.
 
-- [Omar's Notes](https://github.com/JoinCODED/DEMO-Template/blob/main/solution.js)
+- [Omar's Notes](https://github.com/JoinCODED/DEMO-functions-basics-node/blob/main/solution.js)
